@@ -1,0 +1,44 @@
+body{
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+button{
+    font-size: 34px;
+    margin-left: 10px;
+    color: white;
+    border-radius: 15%;
+}
+
+.stopwatch{
+   
+    font-size: 8em;
+    font-family: monospace;
+    margin-bottom: 60px;
+    color: orange
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    padding: 10px 0;
+}
+
+.lap{
+    color: white;
+    font-size: 15em;
+}
+
+h1{
+    color: white;
+    font-size: 6em; 
+}
